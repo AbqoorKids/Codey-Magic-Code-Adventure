@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # 05_circles.py
-# Example: Playing a loop until Abqoor wins the teddy bear (needs 3 attempts)
+# Example: Playing a loop until Codey wins the teddy bear (needs 3 attempts)
 
 circles_count = 0
 
