@@ -15,7 +15,7 @@
 ---
 
 ## Lesson files
-- `06_shells.py` — Abqoor collects shells (for with range).
+- `06_shells.py` — Codey collects shells (for with range).
 - `06_count_fish.py` — Counting fish from 1 to 8.
 - `06_seafood_tasting.py` — Tasting seafood from a list.
 - `06_friends_list.py` — Printing friends' names using for.
