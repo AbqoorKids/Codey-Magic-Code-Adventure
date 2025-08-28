@@ -18,7 +18,7 @@
 
 ## Files in this lesson:
 - **08_clean_room.py** — A simple function to clean a room.
-- **08_Noah_tasks.py** — A function named Husam containing his daily tasks.
+- **08_noah_tasks.py** — A function named Husam containing his daily tasks.
 - **08_clean_shelves.py** — A function containing a loop for repetition.
 - **08_clean_music_room.py** — A function that calls another function.
 
